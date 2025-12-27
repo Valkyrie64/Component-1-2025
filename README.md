@@ -1,4 +1,4 @@
-# Component 1 User Manual
+# Component 1 Manual
 This manual will explain how the component works and how it will be used in the final prototype
 
 ## Player
